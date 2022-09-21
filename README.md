@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedsf1968
 - 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Kubernetes, Terraform, Ansible, AWS, Azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
